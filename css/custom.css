@@ -1,0 +1,19 @@
+/* Add here all your CSS customizations 
+body{
+ background: black !important;
+}
+.TODO{
+    display: none;
+}
+.CARGADOR {
+    position: fixed;
+    left: 0px;
+    top: 0px;
+    width: 100%;
+    height: 100%;
+    z-index: 9999;
+    background: url(
+        
+        'https://i.blogs.es/9fc0c5/facebook-instagram-whatsapp/450_1000.jpg') 50% 50% no-repeat rgb(249,249,249);
+    opacity: .8;
+}*/
