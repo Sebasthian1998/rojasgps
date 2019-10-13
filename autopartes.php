@@ -63,7 +63,7 @@
 
 	</head>
 	<body >
-	<div class="CARGADOR1" id="carga"></div>	
+	<div class="CARGADORarra" id="carga"></div>	
 	<div class="TODO" id="TODO">	
 		<div class="body">
 			<header id="header" class="header-effect-shrink" data-plugin-options="{'stickyEnabled': true, 'stickyEffect': 'shrink', 'stickyEnableOnBoxed': true, 'stickyEnableOnMobile': true, 'stickyChangeLogo': true, 'stickyStartAt': 30, 'stickyHeaderContainerHeight': 70}">

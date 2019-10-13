@@ -156,7 +156,7 @@
 									data-start="700"
 									data-fontsize="['22','22','22','40']"
 									data-lineheight="['25','25','25','45']"
-									data-transform_in="y:[-50%];opacity:0;s:500;">Tenología en cada servicio</div>
+									data-transform_in="y:[-50%];opacity:0;s:500;">Tecnología en cada servicio</div>
 
 								<h1 class="tp-caption font-weight-extra-bold text-color-light negative-ls-2"
 									data-frames='[{"delay":1000,"speed":2000,"frame":"0","from":"sX:1.5;opacity:0;fb:20px;","to":"o:1;fb:0;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;fb:0;","ease":"Power3.easeInOut"}]'

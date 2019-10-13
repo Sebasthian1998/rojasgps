@@ -19,8 +19,7 @@
   animation-name: cargas;
   animation-duration: 7s;
 }
-/* Add here all your CSS customizations https://www.w3schools.com/css/css3_animations.asp
-https://www.youtube.com/watch?v=y6QgfqLGUAU*/
+
 @keyframes cargas {
 0%{background: url('./img/loaders/img05.jpeg') 15% 50% no-repeat }
 40%{background: url('./img/loaders/img04.jpeg') 50% 50% no-repeat}
@@ -44,11 +43,81 @@ https://www.youtube.com/watch?v=y6QgfqLGUAU*/
   animation-name: carga;
   animation-duration: 7s;
 }
-/* Add here all your CSS customizations https://www.w3schools.com/css/css3_animations.asp
-https://www.youtube.com/watch?v=y6QgfqLGUAU*/
+
 @keyframes carga {
 0%{background: url('./img/loaders/img01.jpeg') 15% 50% no-repeat }
 40%{background: url('./img/loaders/img02.jpeg') 50% 50% no-repeat}
 65%{background: url('./img/loaders/img03.jpeg') 85% 50% no-repeat}
 100%{background: url('./img/loaders/img01.jpeg') 15% 50% no-repeat, url('./img/loaders/img02.jpeg') 50% 50% no-repeat,url('./img/loaders/img03.jpeg') 85% 50% no-repeat}        
 }
+
+.CARGADORgps{
+  position: fixed;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 9999;
+  background: 
+       url('./img/loaders/gps/gps1.jpeg') 15% 50% no-repeat,
+       url('./img/loaders/gps/gps2.jpeg') 50% 50% no-repeat,                                     ,
+       url('./img/loaders/gps/gps3.jpeg') 85% 50% no-repeat,
+       rgb(255, 255, 255);
+  opacity: 1;
+  animation-name: cargagps;
+  animation-duration: 7s;
+}
+
+@keyframes cargagps {
+  0%{background: url('./img/loaders/gps/gps1.jpeg') 15% 50% no-repeat }
+  40%{background: url('./img/loaders/gps/gps2.jpeg') 50% 50% no-repeat}
+  65%{background: url('./img/loaders/gps/gps3.jpeg') 85% 50% no-repeat}
+  100%{background: url('./img/loaders/gps/gps1.jpeg') 15% 50% no-repeat, url('./img/loaders/gps/gps2.jpeg') 50% 50% no-repeat,url('./img/loaders/gps/gps3.jpeg') 85% 50% no-repeat}        
+  } 
+.CARGADORcerra{
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 9999;
+    background: 
+         url('./img/loaders/cerrajeria/cerra1.jpeg') 15% 50% no-repeat,
+         url('./img/loaders/cerrajeria/cerra2.jpeg') 50% 50% no-repeat,                                     ,
+         url('./img/loaders/cerrajeria/cerra3.jpeg') 85% 50% no-repeat,
+         rgb(255, 255, 255);
+    opacity: 1;
+    animation-name: cargacerra;
+    animation-duration: 7s;
+  }
+  
+  @keyframes cargacerra {
+    0%{background: url('./img/loaders/cerrajeria/cerra1.jpeg') 15% 50% no-repeat }
+    40%{background: url('./img/loaders/cerrajeria/cerra2.jpeg') 50% 50% no-repeat}
+    65%{background: url('./img/loaders/cerrajeria/cerra3.jpeg') 85% 50% no-repeat}
+    100%{background: url('./img/loaders/cerrajeria/cerra1.jpeg') 15% 50% no-repeat, url('./img/loaders/cerrajeria/cerra2.jpeg') 50% 50% no-repeat,url('./img/loaders/cerrajeria/cerra3.jpeg') 85% 50% no-repeat}        
+    } 
+
+.CARGADORarra{
+      position: fixed;
+      left: 0;
+      top: 0;
+      width: 100%;
+      height: 100%;
+      z-index: 9999;
+      background: 
+           url('./img/loaders/arrancadores/arra1.jpeg') 15% 50% no-repeat,
+           url('./img/loaders/arrancadores/arra2.jpeg') 50% 50% no-repeat,                                     ,
+           url('./img/loaders/arrancadores/arra3.jpeg') 85% 50% no-repeat,
+           rgb(255, 255, 255);
+      opacity: 1;
+      animation-name: cargaarra;
+      animation-duration: 7s;
+    }
+    
+    @keyframes cargaarra {
+      0%{background: url('./img/loaders/arrancadores/arra1.jpeg') 15% 50% no-repeat }
+      40%{background: url('./img/loaders/arrancadores/arra2.jpeg') 50% 50% no-repeat}
+      65%{background: url('./img/loaders/arrancadores/arra3.jpeg') 85% 50% no-repeat}
+      100%{background: url('./img/loaders/arrancadores/arra1.jpeg') 15% 50% no-repeat, url('./img/loaders/arrancadores/arra2.jpeg') 50% 50% no-repeat,url('./img/loaders/arrancadores/arra3.jpeg') 85% 50% no-repeat}        
+      } 
