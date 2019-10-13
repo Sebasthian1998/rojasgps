@@ -102,7 +102,7 @@
 														<ul class="dropdown-menu">
 															<li><a class="dropdown-item" href="gpsvehicular.php">GPS Vehícular</a></li>
 															<li><a class="dropdown-item" href="accautomotriz.php">Boutique de accesorios automotriz</a></li>
-															<li><a class="dropdown-item" href="cerrajeria.php">Cerrajería Eléctrica</a></li>
+															<li><a class="dropdown-item" href="cerrajeria.php">Cerrajería Electrónica</a></li>
 															<li><a class="dropdown-item" href="labvehiculo.php">Laboratorio vehícular</a></li>
 															<li><a class="dropdown-item" href="autopartes.php">Autopartes eléctricas y electrónicas</a></li>
 														</ul>														

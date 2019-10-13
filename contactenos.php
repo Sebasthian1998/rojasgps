@@ -224,7 +224,7 @@ if(isset($_POST['emailSent'])) {
 														<ul class="dropdown-menu">
 															<li><a class="dropdown-item" href="gpsvehicular.php">GPS Vehícular</a></li>
 															<li><a class="dropdown-item" href="accautomotriz.php">Boutique de accesorios automotriz</a></li>
-															<li><a class="dropdown-item" href="cerrajeria.php">Cerrajería Eléctrica</a></li>
+															<li><a class="dropdown-item" href="cerrajeria.php">Cerrajería Electrónica</a></li>
 															<li><a class="dropdown-item" href="labvehiculo.php">Laboratorio vehícular</a></li>
 															<li><a class="dropdown-item" href="autopartes.php">Autopartes eléctricas y electrónicas</a></li>
 														</ul>													
@@ -313,7 +313,7 @@ if(isset($_POST['emailSent'])) {
 											<option value="">Seleccione</option>
 											<option value="GPS">GPS</option>
 											<option value="Accesorios Automotriz">Accesorios Automotriz</option>
-											<option value="Cerrajería Eléctrica">Cerrajería Eléctrica</option>
+											<option value="Cerrajería Eléctrica">Cerrajería Electrónica</option>
 											<option value="Otros">Otros</option>
 										</select>
 									</div>
