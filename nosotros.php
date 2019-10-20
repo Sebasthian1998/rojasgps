@@ -64,6 +64,7 @@
 	</head>
 	<body >
 	<div class="CARGADOR" id="carga"></div>	
+	<script src="aleatorio.js"></script>
 		<!--class="loading-overlay-showing" data-plugin-page-transition data-loading-overlay data-plugin-options="{'hideDelay': 500}"
 			<div class="loading-overlay">
 			<div class="bounce-loader">
